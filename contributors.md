@@ -2,6 +2,7 @@
 
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Ashwith Poojary](https://github.com/Ashwith25)
+- [Harshvardhan Pandey](https://github.com/harshvpandey)
 - [jayesh]( https://github.com/kevinrotern)
 - [Manuj](https://github.com/MANUJNARAYANAA)
 - [tahasiddiqui29](https://github.com/tahasiddiqui29)
