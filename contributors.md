@@ -2,6 +2,7 @@
 
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Ashwith Poojary](https://github.com/Ashwith25)
+- [Dhananjay Jadhav](https://github.com/dkjadhav28)
 - [Mihir Prasad](https://github.com/MihirPrasad07)
 - [Shobha Maurya](https://github.com/shobha-maurya)
 - [Om Dusane](https://github.com/omdusane)
