@@ -1,4 +1,4 @@
-# Alegria workshop- of Git and GitHub
+# Alegria workshop of Git and GitHub
 
 ## Follow these steps:
 
