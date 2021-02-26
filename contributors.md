@@ -2,6 +2,7 @@
 
 - [Chinmay Mhatre](https://github.com/ChinmayMhatre)
 - [Ashwith Poojary](https://github.com/Ashwith25)
+- [Om Dusane](https://github.com/omdusane)
 - [Prabhu Rokade](https://github.com/Prabhu2001)
 - [Gaurav Mishra](https://github.com/IronCut47)
 - [vrushali](https://github.com/vrushali950)
